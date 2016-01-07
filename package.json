@@ -3,6 +3,10 @@
     "version": "0.0.0",
     "description": "Global Content Sharing Platform",
     "author": "John Loures <john_loures@hotmail.com>",
+   "contributors": [{
+       "name": "Milind Shah",
+       "email": "milind.shah@mail.utoronto.ca"
+   }],
     "scripts": {
         "test": "",
         "start": "node server.js",
