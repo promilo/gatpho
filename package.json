@@ -1,0 +1,31 @@
+{
+    "name": "gatpho",
+    "version": "0.0.0",
+    "description": "Global Content Sharing Platform",
+    "author": "John Loures <john_loures@hotmail.com>",
+    "scripts": {
+        "test": "",
+        "start": "",
+        "predeploy": "",
+        "postdeploy": "",
+        "prepublish": ""
+    },
+    "main": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jloures/gatpho.git"
+    },
+    "bugs": {
+        "url": "https://github.com/jloures/gatpho/issues"
+    },
+    "keywords":[
+        "platform",
+        "global",
+        "sharing",
+        "content"
+    ],
+    "dependencies": {
+        
+    },
+    "license": "MIT"
+}
