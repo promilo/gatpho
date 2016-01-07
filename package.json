@@ -5,7 +5,7 @@
     "author": "John Loures <john_loures@hotmail.com>",
     "scripts": {
         "test": "",
-        "start": "",
+        "start": "node server.js",
         "predeploy": "",
         "postdeploy": "",
         "prepublish": ""
